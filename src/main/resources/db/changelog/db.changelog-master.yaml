@@ -31,7 +31,7 @@ databaseChangeLog:
             tableName: person
             columns:
               - column:
-                  name: first_name
+                  name: first_name_2
                   value: Viresh
               - column:
                   name: last_name
